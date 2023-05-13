@@ -20,6 +20,5 @@ setup(
     classifiers=classifiers,
     keywords='ai',
     packages=["AICreatorPack","AICreatorPack/functions","AICreatorPack/functions/ini"],
-    package_data={'AICreatorPack.functions': ['main.exe']},
     install_requires=['requests']
 )
