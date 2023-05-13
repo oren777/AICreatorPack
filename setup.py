@@ -19,6 +19,6 @@ setup(
     license='MIT',
     classifiers=classifiers,
     keywords='ai',
-    packages=["AICreatorPack", "AICreatorPack.ext"],
+    packages=["AICreatorPack"],
     install_requires=['requests']
 )
